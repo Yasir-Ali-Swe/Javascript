@@ -12,4 +12,5 @@ switch (day) {
     break;
   default:
     console.log("Another day");
+    break;
 }
