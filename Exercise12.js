@@ -42,4 +42,4 @@ let arrayB = [6, 7, 8, 9, 10];
 // console.log(arrayA.length);
 
 // Array sort method
-console.log(arrayA.sort((a, b) => a - b));
+// console.log(arrayA.sort((a, b) => a - b));
