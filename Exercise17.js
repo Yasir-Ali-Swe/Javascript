@@ -16,3 +16,4 @@ console.log("Text after trim method ", text.trim());
 console.log("String indexOf method ", fullName.indexOf("A", 0));
 // string lastIndexOf method
 console.log("String lastIndexOf method ", fullName.lastIndexOf("i"));
+// ####################
