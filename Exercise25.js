@@ -1,8 +1,8 @@
-// function greetings(name) {
-//   return `Good morning ${name}.`;
-// }
+function greets(name) {
+  return `Good morning ${name}.`;
+}
 
-// console.log(greetings("Yasir Ali"));
+console.log(greets("Yasir Ali"));
 
 let greetings = (name) => {
   return `Good morning ${name}.`;
